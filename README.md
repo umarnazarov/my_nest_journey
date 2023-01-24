@@ -45,6 +45,9 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+##Docer 
+docker run --name asos -e MYSQL_DATABASE=asos -e MYSQL_USER=root -e MYSQL_PASSWORD=324422116Umar! -e MYSQL_ROOT_PASSWORD=324422116Umar!  -p 3306:3306 -d mariadb:10.7
+
 ## Test
 
 ```bash
